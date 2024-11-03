@@ -60,3 +60,5 @@ Thank you for contributing to the development of this mod by sharing your feedba
 
 ## Helpful Links
   - [HTML Color Wheel (With Alpha Support)](https://rgbacolorpicker.com/color-wheel-picker)
+
+
